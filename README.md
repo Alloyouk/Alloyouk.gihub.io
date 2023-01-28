@@ -6,6 +6,7 @@ Never give up
 
 [github访问过慢](./github-slow.md)
 
+[github语法](./github-language.md)
 
 
 测试更新
